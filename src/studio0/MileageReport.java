@@ -2,7 +2,7 @@ package studio0;
 
 public class MileageReport {
 	
-	public static void main(String[] args) {
+	public static void main(String args[]) {
 		int car1miles = 250;
 		int car2miles = 100;
 		int car3miles = 900;
